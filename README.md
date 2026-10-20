@@ -1,5 +1,7 @@
 # Secreto TV Cleaner
 
+<p align="center"><img src="banner.png" alt="Secreto TV Cleaner promotional banner" width="900"></p>
+
 **Android TV & Google TV app management through ADB — no root required**
 
 [![Download APK](https://img.shields.io/badge/Download-APK_v1.0.0-14b8d4?style=for-the-badge&logo=android)](https://github.com/mohamedlalah/SecretoTVCleaner/releases) [![Sponsor](https://img.shields.io/badge/❤️_Sponsor-This_Project-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/mohamedlalah)
@@ -11,6 +13,20 @@ Developed by **Mohamed LALAH / SecretoTools** · [SecretofNet](https://www.youtu
 ## Overview
 
 Secreto TV Cleaner helps you examine applications through a user-authorized Android Debug Bridge (ADB) connection and selectively force-stop eligible apps on Android TV and Google TV. It is an **app-management utility**, not an antivirus or an automatic performance booster.
+
+
+### App screenshots
+
+The screenshots below show the real app interface. Images are displayed at reduced width for easier browsing.
+
+
+<p align="center">
+  <img src="connection-method.jpg" alt="Connection method" width="360"> 
+  <img src="connected-dashboard.jpg" alt="Connected dashboard" width="360"> 
+  <img src="smart-scan-results.jpg" alt="Smart Scan results" width="360"> 
+  <img src="applications-list.jpg" alt="Applications list" width="360"> 
+  <img src="legacy-adb.jpg" alt="Legacy ADB setup" width="360"> 
+</p>
 
 ## Features
 
