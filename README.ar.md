@@ -1,5 +1,7 @@
 # Secreto TV Cleaner — سيكريتو تي في كلينر
 
+<p align="center"><img src="banner.png" alt="Secreto TV Cleaner promotional banner" width="900"></p>
+
 **إدارة تطبيقات Android TV وGoogle TV باستخدام ADB دون الحاجة إلى الروت**
 
 [![تحميل APK](https://img.shields.io/badge/Download-APK_v1.0.0-14b8d4?style=for-the-badge&logo=android)](https://github.com/mohamedlalah/SecretoTVCleaner/releases) [![دعم المشروع](https://img.shields.io/badge/❤️_Sponsor-دعم_المشروع-ea4aaa?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/mohamedlalah)
@@ -11,6 +13,20 @@
 ## نبذة عن التطبيق
 
 يساعدك Secreto TV Cleaner على فحص التطبيقات عبر اتصال ADB تُجيزه بنفسك وإيقاف التطبيقات المؤهلة على أجهزة Android TV وGoogle TV. وهو **أداة لإدارة التطبيقات**، وليس مضاداً للفيروسات أو برنامجاً يضمن تسريع الجهاز.
+
+
+### صور من التطبيق
+
+الصور التالية من واجهة التطبيق الحقيقية، وتُعرض بأحجام مصغّرة لتسهيل تصفح الصفحة.
+
+
+<p align="center">
+  <img src="connection-method.jpg" alt="اختيار طريقة الاتصال" width="360"> 
+  <img src="connected-dashboard.jpg" alt="واجهة التطبيق بعد الاتصال" width="360"> 
+  <img src="smart-scan-results.jpg" alt="نتائج الفحص الذكي" width="360"> 
+  <img src="applications-list.jpg" alt="قائمة التطبيقات" width="360"> 
+  <img src="legacy-adb.jpg" alt="إعداد اتصال ADB التقليدي" width="360"> 
+</p>
 
 ## المميزات
 
